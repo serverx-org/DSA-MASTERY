@@ -1,13 +1,13 @@
 # DSA-MASTERY
 
 <div align="center">
-   <a href="https://github.com/SERVER-X-101/"><img alt="Repo Name" title="repo name" target="_blank" src="https://img.shields.io/badge/server_x_101-dsa_mastery-50CCA0?style=for-the-badge"></a></br>
-   <a href="https://github.com/SERVER-X-101/DSA-MASTERY"><img alt="Repo Size" title="repo size" target="_blank" src="https://img.shields.io/github/repo-size/SERVER-X-101/DSA-MASTERY?style=for-the-badge&color=50CCA0&logo=github"></a>
-   <a href="./CONTRIBUTING.md"><img alt="Repo Contributors" title="repo contributors" target="_blank" src="https://img.shields.io/github/contributors/SERVER-X-101/DSA-MASTERY?style=for-the-badge&color=50CCA0&logo=github"></a>
-   <a href="https://github.com/SERVER-X-101/DSA-MASTERY"><img alt="Repo Stars" title="repo stars" target="_blank" src="https://img.shields.io/github/stars/SERVER-X-101/DSA-MASTERY?style=for-the-badge&color=50CCA0&logo=github"></a>
-   <a href="https://github.com/SERVER-X-101/DSA-MASTERY"><img alt="Repo Forks" title="repo forks" target="_blank" src="https://img.shields.io/github/forks/SERVER-X-101/DSA-MASTERY?style=for-the-badge&color=50CCA0&logo=github"></a>
-<!--    <a href="https://github.com/SERVER-X-101/DSA-MASTERY"><img height="28px" alt="Site Up" title="site up" target="_blank" src="https://napkin-examples.npkn.net/site-status-badge/"></a> -->
-   <a href="https://github.com/SERVER-X-101/DSA-MASTERY"><img height="28px" alt="Site Down" title="site down" target="_blank" src="https://napkin-examples.npkn.net/site-status-badge/400"></a>
+   <a href="https://github.com/ACM-Vignans-IIT/"><img alt="Repo Name" title="repo name" target="_blank" src="https://img.shields.io/badge/acm_vignans_iit-dsa_mastery-50CCA0?style=for-the-badge"></a></br>
+   <a href="https://github.com/ACM-Vignans-IIT/DSA-MASTERY"><img alt="Repo Size" title="repo size" target="_blank" src="https://img.shields.io/github/repo-size/ACM-Vignans-IIT/DSA-MASTRY?style=for-the-badge&color=50CCA0&logo=github"></a>
+   <a href="./CONTRIBUTING.md"><img alt="Repo Contributors" title="repo contributors" target="_blank" src="https://img.shields.io/github/contributors/ACM-Vignans-IIT/DSA-MASTRY?style=for-the-badge&color=50CCA0&logo=github"></a>
+   <a href="https://github.com/ACM-Vignans-IIT/DSA-MASTERY"><img alt="Repo Stars" title="repo stars" target="_blank" src="https://img.shields.io/github/stars/ACM-Vignans-IIT/DSA-MASTRY?style=for-the-badge&color=50CCA0&logo=github"></a>
+   <a href="https://github.com/ACM-Vignans-IIT/DSA-MASTERY"><img alt="Repo Forks" title="repo forks" target="_blank" src="https://img.shields.io/github/forks/ACM-Vignans-IIT/DSA-MASTRY?style=for-the-badge&color=50CCA0&logo=github"></a>
+<!--    <a href="https://github.com/ACM-Vignans-IIT/DSA-MASTERY"><img height="28px" alt="Site Up" title="site up" target="_blank" src="https://napkin-examples.npkn.net/site-status-badge/"></a> -->
+   <a href="https://github.com/ACM-Vignans-IIT/DSA-MASTERY"><img height="28px" alt="Site Down" title="site down" target="_blank" src="https://napkin-examples.npkn.net/site-status-badge/400"></a>
 </div>
 
 </br>
@@ -87,7 +87,7 @@ It overlooks system-dependent constants and focuses solely on the number of modu
 
 <details open><summary><b>Practice: Time and Space Complexity</b></summary><table><tbody><tr><td><p>◌ <b>MCQs: Time and Space Complexity</b></p></td><td><a target="_blank" href="https://discuss.codechef.com/t/multiple-choice-questions-related-about-time-and-space-complexity-of-a-program/17976"><b>CodeChef</b></a></td></tr><tr><td><p>◌ <b>Particularly for Big-O notation</b></p></td><td><a target="_blank" href="https://www.youtube.com/watch?v=v4cd1O4zkGw"><b>YouTube</b></a></td></tr><tr><td><p>◌ <b>Practice Problems</b></p></td><td><a target="_blank" href="https://www.iitk.ac.in/esc101/08Jul/lecnotes/practise_sol.pdf"><b>IITK Lecture Practice</b></a></td></tr></tbody></table></details>
 
-[**Back To Top 🡅**](#index)
+[**Back To Top ⬆️**](#index)
 
 ## 3. Learn essential Data Structures and Algorithms
 
@@ -374,7 +374,7 @@ The complexity of the Stack as a data structure arises from its implementation, 
 </table>
 </details>
 
-[**Back To Top 🡅**](#index)
+[**Back To Top ⬆️**](#index)
 
 ## 3.5 Queue
 
@@ -446,7 +446,7 @@ Different types of queues include:
 </table>
 </details>
 
-[**Back To Top 🡅**](#index)
+[**Back To Top ⬆️**](#index)
 
 ## 3.6 Searching Algorithm
 
@@ -505,7 +505,7 @@ Other notable searching algorithms include:
 </table>
 </details>
 
-[**Back To Top 🡅**](#index)
+[**Back To Top ⬆️**](#index)
 
 ## 3.7 Sorting Algorithm
 
@@ -577,7 +577,7 @@ Numerous other sorting algorithms exist, each beneficial in different scenarios.
 </table>
 </details>
 
-[**Back To Top 🡅**](#index)
+[**Back To Top ⬆️**](#index)
 
 ## 3.8 Divide and Conquer Algorithm
 
@@ -645,7 +645,7 @@ This technique is prominently featured in two sorting algorithms—Merge Sort an
 </table>
 </details>
 
-[**Back To Top 🡅**](#index)
+[**Back To Top ⬆️**](#index)
 
 ## 3.9 Linked List
 
@@ -683,7 +683,7 @@ Linked List Variations to Explore
 </table>
 </details>
 
-[**Back To Top 🡅**](#index)
+[**Back To Top ⬆️**](#index)
 
 ## 3.10 Tree Data Structure
 
@@ -809,7 +809,7 @@ Additional classifications based on node configuration include:
 </table>
 </details>
 
-[**Back To Top 🡅**](#index)
+[**Back To Top ⬆️**](#index)
 
 ## 3.11 Graph Data Structure
 
@@ -951,7 +951,7 @@ Key concepts to explore:
 </table>
 </details>
 
-[**Back To Top 🡅**](#index)
+[**Back To Top ⬆️**](#index)
 
 ## 3.12 Recursion
 
@@ -1075,7 +1075,7 @@ Key problems to tackle in Backtracking algorithms:
 </table>
 </details>
 
-[**Back To Top 🡅**](#index)
+[**Back To Top ⬆️**](#index)
 
 ## 3.14 Dynamic Programming
 
@@ -1210,7 +1210,7 @@ Key concepts to explore in Dynamic Programming:
 </table>
 </details>
 
-[**Back To Top 🡅**](#index)
+[**Back To Top ⬆️**](#index)
 
 ## 3.15 Greedy Methodology
 
@@ -1276,7 +1276,7 @@ To delve into the Greedy algorithm, explore these sub-topics:
 </table>
 </details>
 
-[**Back To Top 🡅**](#index)
+[**Back To Top ⬆️**](#index)
 
 ## 3.16 Mathematics Advanced
 
@@ -1314,7 +1314,7 @@ To delve into the Greedy algorithm, explore these sub-topics:
 </table>
 </details>
 
-[**Back To Top 🡅**](#index)
+[**Back To Top ⬆️**](#index)
 
 ## 4. Practice Consistently and Extensively
 
@@ -1392,7 +1392,7 @@ Remember, learning DSA is a continuous process, and persistence and problem-solv
 - Compiled by Nishant Bhaiya from AlgoPrep
 - A broad range of coding problems and solutions related to data structures and algorithms, aimed at assisting software development engineers in interview preparation for top tech firms.
 
-[**Back To Top 🡅**](#index)
+[**Back To Top ⬆️**](#index)
 
 ---
 
@@ -1419,7 +1419,7 @@ Stay tuned for additional resources and guides tailored for specific programming
    *Authored by <a target="_blank" href="https://github.com/gautamankoji">Gautam Ankoji</a>*
    
    <p align="center">
-     Copyright © 2023 - 2024 <b><a target="_blank" href="https://github.com/SERVER-X-101">SERVER-X-101</a></b> All rights reserved. <br/>
+     Copyright © 2023 - 2024 <b><a target="_blank" href="https://github.com/ACM-Vignans-IIT">ACM Vignan's IIT</a></b> All rights reserved. <br/>
    </p>
 
 </div>
