@@ -1,13 +1,13 @@
 # DSA-MASTERY
 
 <div align="center">
-   <a href="https://github.com/ACM-Vignans-IIT/"><img alt="Repo Name" title="repo name" target="_blank" src="https://img.shields.io/badge/acm_vignans_iit-dsa_mastery-50CCA0?style=for-the-badge"></a></br>
-   <a href="https://github.com/ACM-Vignans-IIT/DSA-MASTERY"><img alt="Repo Size" title="repo size" target="_blank" src="https://img.shields.io/github/repo-size/ACM-Vignans-IIT/DSA-MASTRY?style=for-the-badge&color=50CCA0&logo=github"></a>
-   <a href="./CONTRIBUTING.md"><img alt="Repo Contributors" title="repo contributors" target="_blank" src="https://img.shields.io/github/contributors/ACM-Vignans-IIT/DSA-MASTRY?style=for-the-badge&color=50CCA0&logo=github"></a>
-   <a href="https://github.com/ACM-Vignans-IIT/DSA-MASTERY"><img alt="Repo Stars" title="repo stars" target="_blank" src="https://img.shields.io/github/stars/ACM-Vignans-IIT/DSA-MASTRY?style=for-the-badge&color=50CCA0&logo=github"></a>
-   <a href="https://github.com/ACM-Vignans-IIT/DSA-MASTERY"><img alt="Repo Forks" title="repo forks" target="_blank" src="https://img.shields.io/github/forks/ACM-Vignans-IIT/DSA-MASTRY?style=for-the-badge&color=50CCA0&logo=github"></a>
-<!--    <a href="https://github.com/ACM-Vignans-IIT/DSA-MASTERY"><img height="28px" alt="Site Up" title="site up" target="_blank" src="https://napkin-examples.npkn.net/site-status-badge/"></a> -->
-   <a href="https://github.com/ACM-Vignans-IIT/DSA-MASTERY"><img height="28px" alt="Site Down" title="site down" target="_blank" src="https://napkin-examples.npkn.net/site-status-badge/400"></a>
+   <a href="https://github.com/SERVER-X-101/"><img alt="Repo Name" title="repo name" target="_blank" src="https://img.shields.io/badge/server_x_101-dsa_mastery-50CCA0?style=for-the-badge"></a></br>
+   <a href="https://github.com/SERVER-X-101/DSA-MASTERY"><img alt="Repo Size" title="repo size" target="_blank" src="https://img.shields.io/github/repo-size/SERVER-X-101/DSA-MASTRY?style=for-the-badge&color=50CCA0&logo=github"></a>
+   <a href="./CONTRIBUTING.md"><img alt="Repo Contributors" title="repo contributors" target="_blank" src="https://img.shields.io/github/contributors/SERVER-X-101/DSA-MASTRY?style=for-the-badge&color=50CCA0&logo=github"></a>
+   <a href="https://github.com/SERVER-X-101/DSA-MASTERY"><img alt="Repo Stars" title="repo stars" target="_blank" src="https://img.shields.io/github/stars/SERVER-X-101/DSA-MASTRY?style=for-the-badge&color=50CCA0&logo=github"></a>
+   <a href="https://github.com/SERVER-X-101/DSA-MASTERY"><img alt="Repo Forks" title="repo forks" target="_blank" src="https://img.shields.io/github/forks/SERVER-X-101/DSA-MASTRY?style=for-the-badge&color=50CCA0&logo=github"></a>
+<!--    <a href="https://github.com/SERVER-X-101/DSA-MASTERY"><img height="28px" alt="Site Up" title="site up" target="_blank" src="https://napkin-examples.npkn.net/site-status-badge/"></a> -->
+   <a href="https://github.com/SERVER-X-101/DSA-MASTERY"><img height="28px" alt="Site Down" title="site down" target="_blank" src="https://napkin-examples.npkn.net/site-status-badge/400"></a>
 </div>
 
 </br>
@@ -1419,7 +1419,7 @@ Stay tuned for additional resources and guides tailored for specific programming
    *Authored by <a target="_blank" href="https://github.com/gautamankoji">Gautam Ankoji</a>*
    
    <p align="center">
-     Copyright © 2023 - 2024 <b><a target="_blank" href="https://github.com/ACM-Vignans-IIT">ACM Vignan's IIT</a></b> All rights reserved. <br/>
+     Copyright © 2023 - 2024 <b><a target="_blank" href="https://github.com/SERVER-X-101">SERVER-X-101</a></b> All rights reserved. <br/>
    </p>
 
 </div>
