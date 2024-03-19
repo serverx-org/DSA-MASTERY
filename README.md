@@ -6,8 +6,8 @@
    <a href="./CONTRIBUTING.md"><img alt="Repo Contributors" title="repo contributors" target="_blank" src="https://img.shields.io/github/contributors/SERVER-X-101/DSA-MASTERY?style=for-the-badge&color=50CCA0&logo=github"></a>
    <a href="https://github.com/SERVER-X-101/DSA-MASTERY"><img alt="Repo Stars" title="repo stars" target="_blank" src="https://img.shields.io/github/stars/SERVER-X-101/DSA-MASTERY?style=for-the-badge&color=50CCA0&logo=github"></a>
    <a href="https://github.com/SERVER-X-101/DSA-MASTERY"><img alt="Repo Forks" title="repo forks" target="_blank" src="https://img.shields.io/github/forks/SERVER-X-101/DSA-MASTERY?style=for-the-badge&color=50CCA0&logo=github"></a>
-<!--    <a href="https://github.com/SERVER-X-101/DSA-MASTERY"><img height="28px" alt="Site Up" title="site up" target="_blank" src="https://napkin-examples.npkn.net/site-status-badge/"></a> -->
-   <a href="https://github.com/SERVER-X-101/DSA-MASTERY"><img height="28px" alt="Site Down" title="site down" target="_blank" src="https://napkin-examples.npkn.net/site-status-badge/400"></a>
+   <a href="https://server-x-101.github.io/articles/dsa-mastery/"><img height="28px" alt="Site Up" title="site up" target="_blank" src="https://napkin-examples.npkn.net/site-status-badge/"></a> 
+<!-- <a href="https://github.com/SERVER-X-101/DSA-MASTERY"><img height="28px" alt="Site Down" title="site down" target="_blank" src="https://napkin-examples.npkn.net/site-status-badge/400"></a> -->
 </div>
 
 </br>
