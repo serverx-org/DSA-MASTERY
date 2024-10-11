@@ -1417,10 +1417,8 @@ Stay tuned for additional resources and guides tailored for specific programming
 **DSA in C++**: [*Learn DSA in C++*](./C++/)
 
 ### Python - Data Structures and Algorithms
-**DSA in Python**: [*Learn DSA in Python*](./Python/)
 
 ### Java - Data Structures and Algorithms
-**DSA in Java**: [*Learn DSA in Java*](./Java/)
 
 <div align="center">
 
