@@ -1410,11 +1410,11 @@ Stay tuned for additional resources and guides tailored for specific programming
 
 ### JavaScript - Data Structures and Algorithms
 
-**Introduction**: [*Learn DSA in JavaScript*](./JavaScript/)
+**DSA in JavaScript**: [*Learn DSA in JavaScript*](./JavaScript/)
 
 ### C/C++ - Data Structures and Algorithms
 
-**Introduction**: [*Learn DSA in C++*](./C++/)
+**DSA in C++**: [*Learn DSA in C++*](./C++/)
 
 ### Python - Data Structures and Algorithms
 **DSA in Python**: [*Learn DSA in Python*](./Python/)
