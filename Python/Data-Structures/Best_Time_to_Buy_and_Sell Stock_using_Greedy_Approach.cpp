@@ -15,6 +15,15 @@ class Solution(object):
                 max_profit = price - min_price
 
         return max_profit
+        
+solution = Solution()
+prices1 = [7, 1, 5, 3, 6, 4]
+result1 = solution.maxProfit(prices1)
+print(f"Test Case 1 - Prices: {prices1} => Max Profit: {result1}")
+prices2 = [7, 6, 4, 3, 1]
+result2 = solution.maxProfit(prices2)
+print(f"Test Case 2 - Prices: {prices2} => Max Profit: {result2}")
+
 
 
 """Best Time to Buy and Sell Stock
