@@ -17,7 +17,31 @@
 
 
 <!-- This repository covers a range of Data Structures and Algorithms (DSA) implementations, spanning from introductory to advanced levels. -->
-This repository covers the roadmap for mastering Data Structures and Algorithms in JavaScript, Python, C/C++, and Java.
+This repository covers the roadmap for mastering Data Structures and Algorithms across multiple programming languages: **JavaScript, Python, C++, Java, Go, and Rust**. It also includes specialized resources for interview preparation, practice sheets, algorithms, games, and additional learning materials.
+
+## 🚀 **Quick Navigation**
+
+### 📚 **Language-Specific DSA Guides**
+|   | Language | Description | Link |
+|---|----------|-------------|------|
+| 🟨 | **JavaScript** | Web development-focused DSA | [📖 JavaScript DSA](./javascript/README.md) |
+| 🐍 | **Python** | AI/Data Science applications | [📖 Python DSA](./python/README.md) |
+| ⚡ | **C++** | High-performance systems programming | [📖 C++ DSA](./cpp/README.md) |
+| ☕ | **Java** | Enterprise and distributed systems | [📖 Java DSA](./java/README.md) |
+| 🔥 | **Go** | Cloud-native and concurrent programming | [📖 Go DSA](./go/README.md) |
+| 🦀 | **Rust** | Memory-safe systems programming | [📖 Rust DSA](./rust/README.md) |
+
+### 🎯 **Specialized Resources**
+|   | Resource | Purpose | Link |
+|---|----------|---------|------|
+| 🗺️ | **Learning Roadmap** | Visual guide and learning paths | [📖 Roadmaps](./.roadmaps/README.md) |
+| 📋 | **Practice Sheets** | Curated problem collections | [📖 DSA Sheets](./.sheets/README.md) |
+| 💼 | **Interview Prep** | Common interview problems | [📖 Interview Problems](./.interviews/linked-list/README.md) |
+| 🔬 | **Algorithms** | Algorithm implementations | [📖 Sorting Algorithms](./~algorithms/Sorting%20algo/README.md) |
+| 🎮 | **Games & Projects** | Interactive DSA applications | [📖 Programming Games](./~games/README.md) |
+| 🔧 | **Additional Resources** | Utilities and extras | [📖 Other Resources](./~others/README.md) |
+
+### 📊 **Main Content Navigation**
 
 |       | &emsp;&emsp;&emsp;&emsp; **TABLE OF CONTENTS** &emsp;&emsp;&emsp;&emsp;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | :---: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1418,16 +1442,95 @@ Stay tuned for additional resources and guides tailored for specific programming
 
 ### Python - Data Structures and Algorithms
 
+**DSA in Python**: [*Learn DSA in Python*](./python/README.md)
+
 ### Java - Data Structures and Algorithms
+
+**DSA in Java**: [*Learn DSA in Java*](./java/README.md)
+
+### Go - Data Structures and Algorithms
+
+**DSA in Go**: [*Learn DSA in Go*](./go/README.md)
+
+### Rust - Data Structures and Algorithms
+
+**DSA in Rust**: [*Learn DSA in Rust*](./rust/README.md)
+
+## 📚 **Additional Resources**
+
+### 📖 **Books**
+- **Data Structures and Algorithms Made Easy** by Narasimha Karumanchi
+- **Introduction to Algorithms** by Thomas H. Cormen (CLRS)
+- **Algorithms** by Robert Sedgewick and Kevin Wayne
+- **Cracking the Coding Interview** by Gayle Laakmann McDowell
+
+### 🎓 **Online Courses**
+- **Coursera**: Data Structures and Algorithms Specialization by UC San Diego
+- **edX**: Introduction to Computer Science and Programming by MIT
+- **Udemy**: Master the Coding Interview: Data Structures + Algorithms
+- **freeCodeCamp**: Data Structures and Algorithms Course
+
+### 🎥 **YouTube Channels**
+- **Abdul Bari**: Algorithms playlist
+- **mycodeschool**: Data Structures playlist
+- **Tushar Roy**: Coding Made Simple
+- **Back To Back SWE**: Interview-focused content
+- **William Fiset**: Data Structures playlist
+
+### 💻 **Practice Platforms**
+- **LeetCode**: [https://leetcode.com/](https://leetcode.com/)
+- **HackerRank**: [https://www.hackerrank.com/](https://www.hackerrank.com/)
+- **CodeChef**: [https://www.codechef.com/](https://www.codechef.com/)
+- **Codeforces**: [https://codeforces.com/](https://codeforces.com/)
+- **GeeksforGeeks**: [https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/)
+- **InterviewBit**: [https://www.interviewbit.com/](https://www.interviewbit.com/)
+
+### 🌐 **Websites**
+- **GeeksforGeeks**: Comprehensive DSA tutorials and practice
+- **Khan Academy**: Computer Science courses
+- **Codecademy**: Interactive programming courses
+- **HackerEarth**: Tutorials and competitive programming
+- **Programiz**: Learn to code with clear examples
+
+### 📊 **Visualization Tools**
+- **VisuAlgo**: Visualizing algorithms through animation
+- **Algorithm Visualizer**: Interactive algorithm visualizations
+- **Data Structure Visualizations**: University of San Francisco
+- **Sorting Algorithms Animations**: Various sorting algorithm visualizations
+
+### 🏆 **Competitive Programming**
+- **TopCoder**: Competitive programming contests
+- **AtCoder**: Programming contests (beginner-friendly)
+- **Google Code Jam**: Annual programming competition
+- **Facebook Hacker Cup**: Global programming competition
+- **ACM ICPC**: International Collegiate Programming Contest
+
+### 📱 **Mobile Apps**
+- **SoloLearn**: Programming courses on mobile
+- **Programming Hero**: Coding practice app
+- **Encode**: Learn to code on mobile
+- **Grasshopper**: JavaScript coding app by Google
+
+## 🤝 **Contributing**
+
+We welcome contributions to make this repository even better! Please check our [Contributing Guidelines](./CONTRIBUTING.md) for detailed information on how to contribute.
+
+### Ways to Contribute:
+- 🐛 **Bug Reports**: Report issues or errors in the documentation
+- ✨ **New Features**: Suggest new topics, resources, or improvements  
+- 📝 **Documentation**: Improve existing documentation or add new guides
+- 💻 **Code Examples**: Contribute implementations in different languages
+- 🔗 **Resources**: Share helpful books, courses, or practice platforms
+- 🌍 **Translation**: Help translate content to other languages
 
 <div align="center">
 
 ---
 
-   *Authored by <a target="_blank" href="https://github.com/gautamankoji">Gautam Ankoji</a>*
+   *Curated and maintained by the <a target="_blank" href="https://github.com/serverx-org">ServerX Community</a>*
    
    <p align="center">
-     Copyright © 2023 - 2024 <b><a target="_blank" href="https://github.com/SERVER-X-101">SERVER-X-101</a></b> All rights reserved. <br/>
+     Copyright © 2023 - 2024 <b><a target="_blank" href="https://github.com/serverx-org">serverx-org</a></b> All rights reserved. <br/>
    </p>
 
 </div>
